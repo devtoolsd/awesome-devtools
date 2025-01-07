@@ -60,6 +60,7 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 ### Popular Proxy servers
 
 - [squid](http://www.squid-cache.org/)
+- [g3proxy](https://github.com/bytedance/g3) - HTTP/Socks/SNI/Transparent Proxy, Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation.
 
 ## Reverse Proxy
 
