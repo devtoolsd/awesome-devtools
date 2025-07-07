@@ -127,6 +127,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 
+
+### Related Lists
+
+- [Awesome AI Coding Tools  ](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
+
 ---
 
 PRs welcome!
