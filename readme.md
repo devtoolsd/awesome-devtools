@@ -34,7 +34,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
-* [Codeium](https://codeium.com/) - Free AI-powered code autocomplete.
+* [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
 * [Tabnine](https://www.tabnine.com/) - AI code completions trained on open-source code.
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
