@@ -32,16 +32,16 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
+* [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Codeium](https://codeium.com/) - Free AI-powered code autocomplete.
 * [Tabnine](https://www.tabnine.com/) - AI code completions trained on open-source code.
-* [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 
 ## IDEs & Code Editors
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
+* [VSCode](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM and polyglot development.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - IDE for JavaScript and web development.
 * [Neovim](https://neovim.io/) - Modernized Vim for advanced editing.
