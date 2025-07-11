@@ -38,6 +38,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tabnine](https://www.tabnine.com/) - AI code completions trained on open-source code.
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
+* [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
+* [Cline](https://github.com/cline/cline) - AI-powered code assistant.
+* [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 
 ## IDEs & Code Editors
 
