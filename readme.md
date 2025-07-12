@@ -124,10 +124,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
-* [Brie](https://briehq.com) - Instantly capture screenshots, errors, and user actions for debugging.
 
 ## Productivity & Misc
 
+* [Brie](https://briehq.com) - Instantly capture screenshots, errors, and user actions for debugging.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
