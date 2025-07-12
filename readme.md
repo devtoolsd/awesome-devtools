@@ -6,17 +6,20 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
-* [Cloud Platforms](#cloud-platforms)
-* [AI Coding Tools](#ai-coding-tools)
-* [IDEs & Code Editors](#ides--code-editors)
-* [CLIs & Terminal Tools](#clis--terminal-tools)
-* [DevOps & Infrastructure](#devops--infrastructure)
-* [APIs & Backends](#apis--backends)
-* [Design & UI Tools](#design--ui-tools)
-* [Testing & Quality](#testing--quality)
-* [Docs & Knowledge](#docs--knowledge)
-* [Browser Extensions](#browser-extensions)
-* [Productivity & Misc](#productivity--misc)
+- [Awesome DevTools](#awesome-devtools)
+  - [Table of Contents](#table-of-contents)
+  - [Cloud Platforms](#cloud-platforms)
+  - [AI Coding Tools](#ai-coding-tools)
+  - [IDEs \& Code Editors](#ides--code-editors)
+  - [CLIs \& Terminal Tools](#clis--terminal-tools)
+  - [DevOps \& Infrastructure](#devops--infrastructure)
+  - [APIs \& Backends](#apis--backends)
+  - [Design \& UI Tools](#design--ui-tools)
+  - [Testing \& Quality](#testing--quality)
+  - [Docs \& Knowledge](#docs--knowledge)
+  - [Browser Extensions](#browser-extensions)
+  - [Productivity \& Misc](#productivity--misc)
+    - [Related Lists](#related-lists)
 
 ---
 
@@ -60,6 +63,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
+* [magicc](https://github.com/warengonzaga/magic-commit) - AI-powered commit message generator.
 
 ## DevOps & Infrastructure
 
@@ -71,6 +75,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [CircleCI](https://circleci.com/) - Continuous integration and delivery platform.
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
+* [Log Engine](https://github.com/wgtechlabs/log-engine) - Fast, PII-safe logging for Node.js with color and production-ready features.
 
 ## APIs & Backends
 
@@ -119,6 +124,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [Brie](https://briehq.com) - Instantly capture screenshots, errors, and user actions for debugging.
 
 ## Productivity & Misc
 
