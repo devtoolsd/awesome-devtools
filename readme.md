@@ -81,6 +81,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Appwrite](https://appwrite.io/) - Secure backend server for web and mobile apps.
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
+* [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 
 ## Design & UI Tools
 
