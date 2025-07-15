@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [CircleCI](https://circleci.com/) - Continuous integration and delivery platform.
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
+* [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 
 ## APIs & Backends
 
