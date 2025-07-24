@@ -17,6 +17,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Docs & Knowledge](#docs--knowledge)
 * [Browser Extensions](#browser-extensions)
 * [Productivity & Misc](#productivity--misc)
+* [Database Migrations & DevOps](#database-migration--devops)
 
 ---
 
@@ -132,6 +133,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 
+## Database Migration & DevOps
+* [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
+* [Flyway](https://flywaydb.org/) - Lightweight, SQL-based database version control and migration tool.
+* [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
+* [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
+* [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
 
 ### Related Lists
 
