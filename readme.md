@@ -6,6 +6,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
+* [Analytics Tools](#analytics-tools)
 * [Cloud Platforms](#cloud-platforms)
 * [AI Coding Tools](#ai-coding-tools)
 * [IDEs & Code Editors](#ides--code-editors)
@@ -20,6 +21,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Database Migrations & DevOps](#database-migration--devops)
 
 ---
+
+## Analytics Tools
+
+- [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
+- [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
+- [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
 
 ## Cloud Platforms
 
