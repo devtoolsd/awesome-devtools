@@ -69,6 +69,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
+* [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 
 ## DevOps & Infrastructure
 
