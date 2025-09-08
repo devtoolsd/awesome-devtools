@@ -93,6 +93,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
+* [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
 
 ## Design & UI Tools
 
