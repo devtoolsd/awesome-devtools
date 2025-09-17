@@ -143,6 +143,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Notion](https://www.notion.so/) - Workspace for notes, docs, and tasks.
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
+* [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
