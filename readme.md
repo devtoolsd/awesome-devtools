@@ -71,6 +71,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for Git, providing a quick and easy way to manage Git repositories and actions.
+* [mise](https://github.com/jdx/mise) - Mise is a command-line tool (like asdf) that lets you manage all your development tools and their versions (like Node.js, Python, or Ruby) on a per-project basis.
 
 ## DevOps & Infrastructure
 
@@ -95,6 +97,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
+* [Beeceptor](https://beeceptor.com/) - A no-code cloud platform for mocking and debugging multi-protocol APIs, providing instant mock servers, local tunnels, and HTTP request inspection for faster integration and testing.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
 
 ## Design & UI Tools
