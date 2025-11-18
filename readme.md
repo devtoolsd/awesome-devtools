@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [NPM Scan](https://npmscan.com/) - Zero-setup npm package security scanner that detects malicious code, obfuscation, hidden scripts, and supply-chain vulnerabilities.
 
 ## Docs & Knowledge
 
