@@ -146,6 +146,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
+* [HTML Tools](https://tools.realtime-ai.chat) - Pure HTML developer tools collection. Single file, zero build, offline-ready. Includes JSON formatter, Base64, timestamp converter, and more.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
 ## Database Migration & DevOps
