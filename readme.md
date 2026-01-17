@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [agent-manager](https://github.com/fractalmind-ai/agent-manager-skill) - tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling.
 
 ## DevOps & Infrastructure
 
