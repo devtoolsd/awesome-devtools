@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Registry Broker](https://hol.org/docs/api/registry-broker) - Universal index and routing layer for AI agents, aggregating agent metadata from NANDA, MCP, Virtuals, OpenRouter, A2A, and X402 registries.
 
 ## Design & UI Tools
 
