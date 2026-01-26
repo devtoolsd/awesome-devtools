@@ -83,6 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
+* [What Broke Today](https://whatbroke.today/) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
 
 ## APIs & Backends
