@@ -59,6 +59,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Neovim](https://neovim.io/) - Modernized Vim for advanced editing.
 * [Sublime Text](https://www.sublimetext.com/) - Lightweight, fast code editor.
 * [Fleet](https://www.jetbrains.com/fleet/) - Collaborative, lightweight IDE by JetBrains.
+* [Online Code Playground](https://onlinecodeplayground.in/) - Free browser-based JavaScript playground to write, run and test JS code instantly without setup.
+
 
 ## CLIs & Terminal Tools
 
