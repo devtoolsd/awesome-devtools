@@ -130,6 +130,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Browser Extensions
 
 * [React Developer Tools](https://github.com/facebook/react-devtools) - Inspect React component hierarchies.
+* [react-debugger](https://github.com/hoainho/react-debugger-extension) - Chrome DevTools extension for deep React debugging—profiling renders, detecting memory leaks, and surfacing anti-patterns.
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Time-traveling debugger for Redux.
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technologies used on websites.
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
