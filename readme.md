@@ -145,6 +145,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Notion](https://www.notion.so/) - Workspace for notes, docs, and tasks.
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
+* [Taskade MCP Server](https://github.com/taskade/mcp) - Official open-source MCP server for Taskade. Manage projects, notes, mind maps, AI agents, and workflow automation from any MCP client. OpenAPI-to-MCP codegen included.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
