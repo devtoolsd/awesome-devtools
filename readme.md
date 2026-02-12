@@ -142,6 +142,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
 * [Alfred](https://www.alfredapp.com/) - Mac productivity app for quick actions.
+* [DevToolkit](https://devtoolkit-dws.pages.dev) - Free, open-source browser-based developer utilities — JSON Formatter, Base64 Encoder, Regex Tester, UUID Generator, and more. No data sent to servers.
 * [Notion](https://www.notion.so/) - Workspace for notes, docs, and tasks.
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
