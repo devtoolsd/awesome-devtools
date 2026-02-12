@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [ShotOG](https://github.com/nicepkg/shotog) - Open-source OG image generation API with 8 templates, batch generation, and custom fonts. Edge-native on Cloudflare Workers.
 
 ## Testing & Quality
 
