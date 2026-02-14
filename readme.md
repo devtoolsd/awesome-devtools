@@ -147,6 +147,17 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Namso Tools](https://namso.io/) - Free credit card validator, BIN lookup & test card generator for developers and QA teams.
+* [Random IMEI Generator](https://randomimei.com/) - Generate valid random IMEI numbers for testing mobile applications.
+* [Random MAC Address Generator](https://randommac.com/) - Generate random, valid MAC addresses for network testing and privacy.
+* [Random IBAN Generator](https://randomiban.co/) - Generate valid test IBAN numbers for payment system development.
+* [Base64 Decode](https://base64decode.co/) - Fast, free Base64 encode/decode tool — no data sent to servers.
+* [Create UUID](https://createuuid.com/) - Generate UUIDs v1, v4, v5, and v7 instantly online.
+* [JSON Format](https://jsonformat.co/) - Beautiful JSON formatter, validator & editor with syntax highlighting.
+* [Password Generator](https://password-generator.co/) - Secure random password generator — 100% client-side.
+* [Hash Generator](https://hashgenerator.co/) - Generate MD5, SHA-256, SHA-512 and more hashes online.
+* [Hex to ASCII](https://hextoascii.co/) - Convert between hexadecimal and ASCII text instantly.
+* [Make Lorem](https://makelorem.com/) - Lorem ipsum generator with multiple formats and styles.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
