@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Redirect Checker](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance. Open-source tool for SEO and DevOps.
 
 ## Docs & Knowledge
 
