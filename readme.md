@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [cursor-lint](https://github.com/nedcodes-ok/cursor-lint) - A linter for Cursor AI .cursorrules and .mdc rule files. Catches broken frontmatter, missing fields, and rule issues from the CLI.
 
 ## Docs & Knowledge
 
