@@ -157,7 +157,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ### Related Lists
 
-- [Awesome AI Coding Tools  ](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
+- [Awesome AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
+- [CodingButVibes](https://www.codingbutvibes.com) - Practical AI coding tool comparisons, reviews, and guides for developers who actually ship things.
 
 ---
 
