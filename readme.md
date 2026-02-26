@@ -83,7 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
-* [KeyEnv](https://keyenv.com/) - CLI-first secrets manager replacing .env files with encrypted, team-shared environment variables.
+* [KeyEnv](https://keyenv.dev) - CLI-first secrets manager replacing .env files with encrypted, team-shared environment variables.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
 
 ## APIs & Backends
@@ -163,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
