@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [PageGuard](https://pageguard.org/) - Website health scanner for SEO, accessibility (WCAG/ADA), and performance audits — free and instant.
 
 ## Docs & Knowledge
 
