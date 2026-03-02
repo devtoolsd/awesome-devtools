@@ -52,6 +52,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
 ## IDEs & Code Editors
+* [NadirClaw](https://github.com/doramirdor/NadirClaw) - LLM router that cuts AI API costs by 40-70% via intelligent routing. Drop-in OpenAI-compatible proxy.
 
 * [VSCode](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM and polyglot development.
