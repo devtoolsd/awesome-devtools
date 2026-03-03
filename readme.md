@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [EnigmaEasel](https://enigmaeasel.com) - AI-powered color management and accessible design toolkit.
 
 ## Testing & Quality
 
