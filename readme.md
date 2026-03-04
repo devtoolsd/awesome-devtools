@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [LynxPrompt](https://lynxprompt.com/) - Self-hostable platform for managing AI IDE configuration files across 30+ coding assistants.
 
 ## IDEs & Code Editors
 
