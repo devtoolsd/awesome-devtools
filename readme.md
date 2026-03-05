@@ -115,6 +115,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Vitest](https://vitest.dev/) - Vite-native unit test framework.
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
+* [RatedWithAI](https://ratedwithai.com/) - Free accessibility testing tool for WCAG 2.2 compliance.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
 
 ## Docs & Knowledge
