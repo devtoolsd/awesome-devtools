@@ -135,6 +135,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [JSON Web Tools](https://jsonwebtools.com) - 18+ free client-side JSON tools: format, validate, diff, repair, JWT decode, JSONPath evaluator, convert to TypeScript/Python/Java/Go/C#/PHP/Kotlin/Ruby/Rust, CSV/YAML/XML/SQL converters. No login, no tracking.
 
 ## Productivity & Misc
 
