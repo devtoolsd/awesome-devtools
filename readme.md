@@ -119,6 +119,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Docs & Knowledge
 
+* [Changelog.dev](https://www.changelogdev.com) - Hosted changelog pages with AI-generated entries from git commits.
 * [Docusaurus](https://docusaurus.io/) - Easy-to-maintain open-source documentation site generator.
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes and collaboration.
 * [GitBook](https://www.gitbook.com/) - Knowledge management and docs platform.
