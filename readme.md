@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop PWA to control AI coding agents (Claude, Codex, Gemini) via tmux across machines, secured by Tailscale.
 
 ## IDEs & Code Editors
 
