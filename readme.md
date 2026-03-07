@@ -64,6 +64,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
+* [Octo Terminal](https://github.com/johunsang/octo-terminal-releases) - AI-powered vibe coding terminal with built-in Claude, Codex, Ollama. Terminal + editor + notes + browser in one app. Tauri + React + Rust.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
