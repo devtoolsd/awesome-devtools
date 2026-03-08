@@ -135,6 +135,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [CiteMe](https://citeme.app/) - AI-powered academic citation generator browser extension for Chrome and Firefox.
+* [CiteMe](https://citeme.app/) - AI-powered academic citation generator browser extension for Chrome and Firefox.
 
 ## Productivity & Misc
 
