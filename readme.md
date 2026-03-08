@@ -48,6 +48,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
+* [BurnRate](https://getburnrate.io) - AI coding cost analytics CLI that tracks usage and spend across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
