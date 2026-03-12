@@ -146,6 +146,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
+* [devpick.sh](https://devpick.sh/) - Developer tools that don't suck (JSON/SQL formatting, encoding, WebMCP ready).
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
 ## Database Migration & DevOps
