@@ -147,6 +147,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools (merge, split, compress, OCR) powered by WebAssembly. No server uploads—everything runs client-side.
+* [Vizua](https://vizua.io/) - Free browser-based image optimization tools (compress, convert to WebP, resize) powered by WebAssembly. Essential for Core Web Vitals and reducing asset sizes.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
