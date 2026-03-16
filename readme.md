@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Foglift](https://foglift.io/) - Free website analyzer for SEO, performance, security, accessibility, and AI search readiness (GEO).
 
 ## Docs & Knowledge
 
