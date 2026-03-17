@@ -97,6 +97,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
 
+* [Arch Tools](https://archtools.dev) - The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible.
+
 ## Design & UI Tools
 
 * [Figma](https://www.figma.com/) - Collaborative interface design tool.
