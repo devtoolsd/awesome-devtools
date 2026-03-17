@@ -24,6 +24,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Analytics Tools
 
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner. Checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
