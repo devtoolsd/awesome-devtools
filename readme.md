@@ -87,6 +87,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## APIs & Backends
 
+* [APort](https://aport.io) - Agent identity verification and policy enforcement for AI agents. Sub-100ms policy checks with portable agent passports.
+
 * [Firebase](https://firebase.google.com/) - Google’s BaaS for realtime apps.
 * [Supabase](https://supabase.com/) - Open-source Firebase alternative.
 * [Hasura](https://hasura.io/) - Instant GraphQL APIs on your data.
