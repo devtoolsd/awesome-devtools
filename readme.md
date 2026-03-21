@@ -109,6 +109,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Testing & Quality
 
+* [MergeSieve](https://github.com/Anton-Koh/MergeSieve) - Deterministic CLI to triage dependency update PR risk, generate explainability diffs, and publish CI-friendly check/comment outputs.
 * [Jest](https://jestjs.io/) - Delightful JavaScript testing framework.
 * [Playwright](https://playwright.dev/) - End-to-end testing for modern web apps.
 * [Cypress](https://www.cypress.io/) - Fast, easy testing for anything that runs in a browser.
