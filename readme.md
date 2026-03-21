@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [ApifyForge](https://apifyforge.com/) - 300+ data extraction and intelligence APIs with 93 MCP servers. Web scraping, lead generation, compliance screening, and OSINT tools with pay-per-event pricing.
 
 ## Design & UI Tools
 
