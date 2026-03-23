@@ -163,3 +163,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 PRs welcome!
 
+Made with Love By Shep "👨🏻‍🌾𓋾🐑🐑🐑"
