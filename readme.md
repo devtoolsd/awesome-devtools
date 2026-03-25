@@ -64,6 +64,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
+* [Yaw Terminal](https://yaw.sh/) - Cross-platform terminal with built-in file editor, SSH client, and connection manager.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
