@@ -76,6 +76,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Docker](https://www.docker.com/) - Container platform for building and running apps.
 * [Kubernetes](https://kubernetes.io/) - Container orchestration system.
+* [Mocker](https://github.com/us/mocker) - Docker-compatible container management tool built natively on Apple's Containerization framework for macOS.
 * [Terraform](https://www.terraform.io/) - Infrastructure as code tool by HashiCorp.
 * [Pulumi](https://www.pulumi.com/) - IaC tool using real programming languages.
 * [GitHub Actions](https://github.com/features/actions) - CI/CD pipelines natively in GitHub.
