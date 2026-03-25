@@ -75,6 +75,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## DevOps & Infrastructure
 
 * [Docker](https://www.docker.com/) - Container platform for building and running apps.
+* [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 * [Kubernetes](https://kubernetes.io/) - Container orchestration system.
 * [Terraform](https://www.terraform.io/) - Infrastructure as code tool by HashiCorp.
 * [Pulumi](https://www.pulumi.com/) - IaC tool using real programming languages.
