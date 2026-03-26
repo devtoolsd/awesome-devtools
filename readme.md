@@ -147,6 +147,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [DevTools by DavrApps](https://devtools.davrapps.dev/) - 20+ free online developer utilities — JSON formatter, regex tester, Base64, JWT decoder, UUID generator, cron builder, diff checker, and more. No login, 100% client-side.
+* [ImgTools by DavrApps](https://imgtools.davrapps.dev/) - Free online image tools — resize, compress, convert, crop, and watermark images in browser. No upload to servers.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
