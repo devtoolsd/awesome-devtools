@@ -51,6 +51,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
+* [Caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md). Scores config quality.
+
 ## IDEs & Code Editors
 
 * [VSCode](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
