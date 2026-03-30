@@ -135,6 +135,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [DevKits](https://devkits-tools.surge.sh) - 82+ free developer tools in a single PWA. Works offline, no ads, no tracking. Includes JSON formatter, Base64 encoder, UUID generator, hash generator, JWT decoder, and more.
 
 ## Productivity & Misc
 
