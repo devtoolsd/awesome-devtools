@@ -95,6 +95,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
+* [CoinPaprika API](https://api.coinpaprika.com) - Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV. No API key for free tier.
+* [DexPaprika API](https://api.dexpaprika.com) - Free DEX data API across 34 blockchains. 30M+ pools, real-time SSE streaming. No API key needed.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
 
 ## Design & UI Tools
