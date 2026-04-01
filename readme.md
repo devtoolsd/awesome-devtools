@@ -96,6 +96,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [FreeKit](https://freekit.dev/) - All-in-one free developer API toolkit.
+* [QRMint](https://qrmint.com/) - Free styled QR code API.
+* [LinkShrink](https://linkshrink.softvoyagers.com/) - Free URL shortener API.
+* [PageShot](https://pageshot.softvoyagers.com/) - Free screenshot API.
+* [PDFSpark](https://pdfspark.softvoyagers.com/) - Free HTML to PDF API.
+* [OGForge](https://ogforge.softvoyagers.com/) - Free Open Graph image generator API.
 
 ## Design & UI Tools
 
