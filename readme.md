@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [Free Online Design Tools](https://www.webtoolkit.tech/tools/design) - Color and design utilities for designers, developers, and creators. Generate harmonious color palettes, convert between HEX, RGB, HSL and CMYK, and create unique usernames — all in your browser.
 
 ## Testing & Quality
 
@@ -116,6 +117,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Free Regex Tester Online](https://www.webtoolkit.tech/tools/regex-tester) - Test regular expressions with live match highlighting. Supports JavaScript and Python.
 
 ## Docs & Knowledge
 
