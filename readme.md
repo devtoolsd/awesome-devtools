@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [ToolPipe](https://toolpipe.dev/) - Free developer utility API with 145+ endpoints: JSON formatting, hashing, UUID generation, QR codes, DNS lookup, JWT decode, regex testing, and more. Also available as an MCP server via npm.
 
 ## Design & UI Tools
 
