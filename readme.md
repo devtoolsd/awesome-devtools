@@ -47,6 +47,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
+* [ClaudeCode Launchpad CLI](https://github.com/noambrand/kivun-terminal) - 2-minute Windows & macOS installer for Claude Code — auto-installs Node.js, Git & Claude Code, live status bar with usage limits, desktop shortcut with folder picker, right-click context menu on Windows folders.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
