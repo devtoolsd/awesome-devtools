@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Codex Plugin Scanner](https://github.com/hashgraph-online/codex-plugin-scanner) - Security and best-practices scanner for OpenAI Codex CLI plugins. Scores plugins 0-100 and outputs SARIF for CI integration.
 
 ## Docs & Knowledge
 
