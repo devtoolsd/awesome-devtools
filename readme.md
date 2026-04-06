@@ -4,6 +4,7 @@
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Developer tool for automated task delegation. MIT licensed.
 ## Table of Contents
 
 * [Analytics Tools](#analytics-tools)
