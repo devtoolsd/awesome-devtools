@@ -147,6 +147,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [DevTools Hub](https://devtools-rose-kappa.vercel.app/) - 15+ free browser-based developer utilities: JSON formatter, Base64 encoder, JWT decoder, hash generator, SQL formatter, YAML validator, diff checker, and more.
+* [JSONFix](https://jsonfix-lake.vercel.app/) - AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or syntax errors.
+* [CronAI](https://cronai-nu.vercel.app/) - Convert plain English schedule descriptions to cron expressions using AI.
+* [RegexAI](https://regexai-six.vercel.app/) - Describe what pattern you want to match in plain English and get a working regex with explanation.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
