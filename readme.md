@@ -50,7 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
-
+* [RemoteOpenClaw](https://remoteopenclaw.com/) - Open marketplace for AI skills and personas built on OpenClaw.
 ## IDEs & Code Editors
 
 * [VSCode](https://code.visualstudio.com/) - Popular, extensible open-source editor by Microsoft.
@@ -162,4 +162,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
