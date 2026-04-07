@@ -71,6 +71,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+* [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 ## DevOps & Infrastructure
 
