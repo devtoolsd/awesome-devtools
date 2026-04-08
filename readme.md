@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [AuditZap](https://auditzap.io/) - AI-powered website audit tool that runs 24 checks across SEO, performance, and site health with fix instructions ranked by revenue impact.
 
 ## Docs & Knowledge
 
