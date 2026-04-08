@@ -134,6 +134,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technologies used on websites.
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
+* [dassi](https://dassi.ai/) - AI browser agent that automates work in Chrome — clicks, fills forms, navigates pages. BYOK with Claude, GPT, Gemini.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
 ## Productivity & Misc
