@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Forge](https://forge-web.rebaselabs.online/) - AI-powered full-stack app creator with BYOK (bring your own API key) and a multi-stage pipeline for planning, architecture, code generation, and verification.
 
 ## IDEs & Code Editors
 
