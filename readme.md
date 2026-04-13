@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for personal workflows, habits, and timelogs with agent-friendly interface.
 
 ## DevOps & Infrastructure
 
