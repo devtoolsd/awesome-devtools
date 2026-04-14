@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Repowise](https://github.com/repowise-dev/repowise) - Open-source codebase intelligence for AI coding agents. Indexes repos into dependency graphs, git history, and auto-generated docs.
 
 ## IDEs & Code Editors
 
