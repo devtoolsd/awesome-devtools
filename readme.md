@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [aicost](https://github.com/dwylq/aicost) - Universal AI coding cost analyzer — scans Claude Code JSONL, Cursor exports, and more for token usage and costs. No API key needed.
 
 ## IDEs & Code Editors
 
