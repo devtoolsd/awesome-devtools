@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [AI Dev Jobs](https://aidevboard.com) - Job board for AI engineers with a REST API and MCP server for programmatic access to 5,000+ roles.
 
 ## Design & UI Tools
 
