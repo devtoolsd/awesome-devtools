@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.
 
 ## IDEs & Code Editors
 
@@ -126,6 +127,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
 * [xyd](https://xyd.dev/) - A new scalable Open Source Docs Framework for future dev powered by LiveSession.
+* [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault that compiles raw sources (books, notes, transcripts, files, URLs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server.
 
 ## Browser Extensions
 
