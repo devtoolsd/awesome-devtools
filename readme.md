@@ -158,6 +158,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ### Related Lists
 
 - [Awesome AI Coding Tools  ](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
+- [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev) - Side-by-side comparison of AI developer tools with pricing, features, and free alternatives.
 
 ---
 
