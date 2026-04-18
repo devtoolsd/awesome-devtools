@@ -37,6 +37,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
+* [ShipStatic](https://shipstatic.com/) - Instant static site hosting — deploy from the CLI or AI agents with no account or config required.
 
 ## AI Coding Tools
 
