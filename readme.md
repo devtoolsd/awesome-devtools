@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev/) - Free, real-time pricing comparison and benchmark suite for 61+ AI coding models. Interactive ROI calculator, value analyzer, and model switching tool. Open-source with public JSON API.
 
 ## IDEs & Code Editors
 
