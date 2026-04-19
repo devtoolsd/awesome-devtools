@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Codex Infinity](https://codex-infinity.com) - Autonomous coding agent that runs continuously on bare metal VPS with full root access, supporting Claude Max and OpenAI Codex plans.
 
 ## IDEs & Code Editors
 
@@ -96,6 +97,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Text-Generator.io](https://text-generator.io) - Privacy-first unified text, vision, and speech API with built-in tools like prompt optimizer and image captioning.
 
 ## Design & UI Tools
 
