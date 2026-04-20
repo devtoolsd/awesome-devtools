@@ -50,6 +50,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence. ([npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain))
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Universal skill/slash-command manager for AI coding assistants. Install, manage, and share custom skills across Claude Code, Cursor, Windsurf, and more. ([npm](https://www.npmjs.com/package/omni-skills-forge))
 
 ## IDEs & Code Editors
 
