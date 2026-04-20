@@ -50,6 +50,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI background code analysis agent that watches your codebase and provides real-time insights.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Skill and command manager for AI assistants with dynamic loading and execution.
 
 ## IDEs & Code Editors
 
