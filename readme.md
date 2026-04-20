@@ -49,6 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
+* [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
 ## IDEs & Code Editors
