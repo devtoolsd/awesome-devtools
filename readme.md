@@ -40,6 +40,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic evolution, predictive bug detection, and swarm intelligence.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard and one-click install.
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
