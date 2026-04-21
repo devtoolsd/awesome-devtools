@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [ai-pricing](https://github.com/dwylq/ai-pricing-npm) - Offline-first npm library with pricing, benchmarks, and cost calculator for 113 AI models. Zero dependencies.
 
 ## IDEs & Code Editors
 
