@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [ai-pricing](https://github.com/dwylq/ai-pricing-npm) - Offline-first npm library with pricing, benchmarks, and cost calculator for 113 AI models. Zero dependencies.
 
 ## IDEs & Code Editors
 
@@ -71,6 +72,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [watchurl](https://github.com/dwylq/watchurl) - Lightweight CLI to monitor URL changes. Get notified when web pages, APIs, or JSON endpoints change.
 
 ## DevOps & Infrastructure
 
