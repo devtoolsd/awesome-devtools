@@ -133,6 +133,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Time-traveling debugger for Redux.
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify technologies used on websites.
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
+* [PR Radar](https://github.com/deployhq/pr-radar) - Unified PR dashboard for GitHub, GitLab, and Bitbucket with CI status, notifications, and merge.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
