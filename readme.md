@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI and MCP server that removes named AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, and overused vocabulary. Lint audit mode and five intensity levels.
 
 ## DevOps & Infrastructure
 
