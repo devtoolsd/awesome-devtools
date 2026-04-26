@@ -40,6 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
+* [ControlKeel](https://github.com/aryaminus/controlkeel) - Governance/control plane for AI coding agents with validation, findings, approvals, budgets, and proof bundles.
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
