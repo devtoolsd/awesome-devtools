@@ -87,6 +87,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## APIs & Backends
 
+* [Hook0](https://www.hook0.com/) - Open-source webhooks-as-a-service platform written in Rust. [Source](https://github.com/hook0/hook0).
 * [Firebase](https://firebase.google.com/) - Google’s BaaS for realtime apps.
 * [Supabase](https://supabase.com/) - Open-source Firebase alternative.
 * [Hasura](https://hasura.io/) - Instant GraphQL APIs on your data.
