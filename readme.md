@@ -81,6 +81,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [GitHub Actions](https://github.com/features/actions) - CI/CD pipelines natively in GitHub.
 * [CircleCI](https://circleci.com/) - Continuous integration and delivery platform.
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
