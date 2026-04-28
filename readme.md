@@ -137,6 +137,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
 ## Productivity & Misc
+- [30tools](https://30tools.com) - 660+ free browser-based developer tools including JSON formatter, Base64 encoder, regex tester, CSS generators, hash generators, and more. Open source. ([GitHub](https://github.com/SH20RAJ/30tools))
 
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
