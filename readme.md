@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [BeLikeNative Git Grammar Hook](https://github.com/theluckystrike/bln-git-grammar-hook) - Pre-commit hook that checks grammar, spelling, and style in commit messages and docs with 77 rules.
 
 ## Docs & Knowledge
 
