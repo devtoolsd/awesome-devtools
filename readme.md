@@ -62,6 +62,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## CLIs & Terminal Tools
 
+- [Prismfy Wizard](https://github.com/prismfy/prismfy-wizard) — CLI that installs persistent live web search rules into local AI agent workflows by adding a `prismfy-search` command and managed search-policy blocks to agent instruction files.
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
