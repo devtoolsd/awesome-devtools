@@ -146,6 +146,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
+* [Ano.chat](https://ano.chat) - The #1 Slack alternative for AI-native teams. Team chat with Claude Code built in.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
 ## Database Migration & DevOps
