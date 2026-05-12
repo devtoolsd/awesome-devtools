@@ -40,6 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
+* [agent-lsp](https://github.com/blackwell-systems/agent-lsp) - MCP server providing AI agents with LSP-based code intelligence across 30 languages. Enables agents to understand code structure, navigate call hierarchies, perform safe refactors with impact analysis, and execute workspace-wide renames. 66 tools + 24 workflow skills.
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
