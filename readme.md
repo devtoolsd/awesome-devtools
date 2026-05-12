@@ -70,6 +70,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
+* [gh-dep-risk](https://github.com/rad1092/gh-dependency-risk) - GitHub CLI extension for on-demand dependency PR risk summaries with Dependency Review API first and static local fallbacks.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ## DevOps & Infrastructure
