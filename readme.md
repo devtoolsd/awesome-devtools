@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [CodingBooth](https://codingbooth.io) - Containerized per-project dev environments declared in a `.booth/` folder; spins up as terminal, Jupyter, browser-based VS Code, or full Linux desktop, all sharing the same toolchain.
 
 ## APIs & Backends
 
