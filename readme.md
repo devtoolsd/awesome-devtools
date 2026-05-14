@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [WebUtilsLab](https://webutilslab.com/tools/linux/) - Local-first browser tools for chmod, umask, cron, timestamps, and Linux permission checks.
 
 ## APIs & Backends
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
