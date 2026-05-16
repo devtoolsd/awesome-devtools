@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [Reflex](https://github.com/reflex-search/reflex) - Local-first full-text code search CLI. Trigram-indexed, sub-100ms search across large codebases with JSON output and MCP server for AI coding agents.
 
 ## DevOps & Infrastructure
 
