@@ -47,6 +47,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
+* [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI observability for AI coding-agent sessions, tracking costs, tokens, latency, tool failures, anomalies, diffs, reports, and CI health gates.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
