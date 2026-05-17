@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/) - VS Code extension that turns AI-generated and legacy codebases into audit reports, architecture notes, and context packs.
 
 ## IDEs & Code Editors
 
