@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/Typer CLI as an MCP server for AI assistants.
 
 ## DevOps & Infrastructure
 
@@ -82,6 +83,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [CircleCI](https://circleci.com/) - Continuous integration and delivery platform.
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
+* [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Compare infrastructure deployments across environments with cost impact estimation.
+* [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect and track configuration drift across infrastructure for compliance.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
 
@@ -116,6 +119,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [API Contract Guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - Validate OpenAPI contracts against specs in CI/CD to prevent breaking changes.
+* [Deadcode](https://github.com/Coding-Dev-Tools/deadcode) - Detect and remove dead code from Python projects.
 
 ## Docs & Knowledge
 
@@ -147,6 +152,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Envault](https://github.com/Coding-Dev-Tools/envault) - Encrypted .env file management with team sharing and version control.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
@@ -154,6 +160,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
 * [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
+* [Json2SQL](https://github.com/Coding-Dev-Tools/json2sql) - Convert JSON files and API responses to SQL schemas and INSERT statements.
 
 ### Related Lists
 
