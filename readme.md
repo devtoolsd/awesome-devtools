@@ -27,6 +27,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
+- [FeedPulse](https://feed-pulse.com/) - Free SEO + traffic analytics suite. 10 free checkers (Traffic Rank, DA, DR, Backlinks, SERP, Index, Lighthouse, Page Speed) + embeddable widgets. Discloses all data sources publicly.
 
 ## Cloud Platforms
 
