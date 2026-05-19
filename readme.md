@@ -96,7 +96,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
-* [Scalekit](https://scalekit.com/) - Authentication platform for B2B SaaS with Enterprise SSO, Directory Sync, and Social Login.
+* [Scalekit AgentKit](https://scalekit.com/) - Auth and tool-calling for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
+* [Scalekit SaaSKit](https://scalekit.com/auth-for-saas) - Full-stack authentication for B2B SaaS with Enterprise SSO, Directory Sync, and RBAC.
 
 ## Design & UI Tools
 
