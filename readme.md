@@ -34,7 +34,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Netlify](https://www.netlify.com/) - All-in-one platform for automating modern web projects.
 * [AWS](https://aws.amazon.com/) - Comprehensive cloud computing services platform.
 * [Google Cloud Platform](https://cloud.google.com/) - Scalable and secure cloud infrastructure.
-* [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
+* [Azure](https://azure.microsoft.com/) - Microsoft's cloud computing platform.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
 
@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Scalekit AgentKit](https://scalekit.com/) - Auth and tool-calling for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 
 ## IDEs & Code Editors
 
@@ -87,7 +88,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## APIs & Backends
 
-* [Firebase](https://firebase.google.com/) - Google’s BaaS for realtime apps.
+* [Firebase](https://firebase.google.com/) - Google's BaaS for realtime apps.
 * [Supabase](https://supabase.com/) - Open-source Firebase alternative.
 * [Hasura](https://hasura.io/) - Instant GraphQL APIs on your data.
 * [PocketBase](https://pocketbase.io/) - Lightweight local backend with realtime and auth.
@@ -96,6 +97,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Scalekit SaaSKit](https://scalekit.com/auth-for-saas) - Full-stack authentication for B2B SaaS with Enterprise SSO, Directory Sync, and RBAC.
 
 ## Design & UI Tools
 
@@ -162,4 +164,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
