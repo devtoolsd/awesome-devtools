@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+- [Ano](https://ano.chat/) - Collaborative chat and developer workspace featuring a native in-app terminal, integrated AI (like Claude Code), and native MCP support.
 
 ## IDEs & Code Editors
 
