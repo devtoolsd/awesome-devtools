@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities.
 
 ## Design & UI Tools
 
