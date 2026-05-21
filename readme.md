@@ -48,8 +48,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
-* [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Markus](https://markus.global) - Open-source AI workforce platform with autonomous agents that code, review, test, and manage projects.
+* [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 
 ## IDEs & Code Editors
 
