@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 
 ## DevOps & Infrastructure
 
