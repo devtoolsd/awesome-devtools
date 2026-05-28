@@ -136,6 +136,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
+* [URL Environment Switcher](https://github.com/ttcd77/url-switcher) - Chrome extension that switches between development environments (localhost, staging, production) in one click while preserving path, query, and hash.
 ## Productivity & Misc
 
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
