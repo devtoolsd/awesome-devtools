@@ -100,6 +100,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Design & UI Tools
 
 * [Figma](https://www.figma.com/) - Collaborative interface design tool.
+* [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
 * [Penpot](https://penpot.app/) - Open-source design and prototyping platform.
 * [Storybook](https://storybook.js.org/) - UI component explorer for frontend teams.
 * [Radix UI](https://www.radix-ui.com/) - Primitives for building high-quality UI components.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
