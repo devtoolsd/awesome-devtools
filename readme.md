@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [AI Dev Toolkit](https://chenyoup.github.io/ai-dev-tools/) - Free client-side AI tools: commit message generator, README builder, prompt optimizer, regex helper. No signup, no API keys.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
