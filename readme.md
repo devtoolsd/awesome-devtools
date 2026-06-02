@@ -62,11 +62,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## CLIs & Terminal Tools
 
-* [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
+
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
-* [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
+* [eza](https://github.com/eza-community/eza) - Modern, active replacement for `ls` (fork of exa) with icons and colors.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Smart Formatter](https://smartformatter.com) - Premium suite of client-side developer utilities, converters, and formatters with 100% browser-only privacy.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
