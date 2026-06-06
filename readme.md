@@ -70,6 +70,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
+* [Lacy Shell](https://lacy.sh) - ZSH/Bash plugin that automatically routes natural language to AI agents (Claude Code, Gemini CLI, OpenCode) and commands to your shell. No prefix, no hotkey — pure lexical analysis.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ## DevOps & Infrastructure
