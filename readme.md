@@ -158,6 +158,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ### Related Lists
 
 - [Awesome AI Coding Tools  ](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
+- [vybing.dev](https://vybing.dev) - AI dev tool directory with benchmark-backed rankings; covers coding assistants, LLM APIs, agents, and dev tooling.
 
 ---
 
