@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - AI-native ops agent for production-safe execution with human review and built-in knowledge graph.
 
 ## APIs & Backends
 
