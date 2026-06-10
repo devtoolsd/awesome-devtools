@@ -59,6 +59,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Neovim](https://neovim.io/) - Modernized Vim for advanced editing.
 * [Sublime Text](https://www.sublimetext.com/) - Lightweight, fast code editor.
 * [Fleet](https://www.jetbrains.com/fleet/) - Collaborative, lightweight IDE by JetBrains.
+* [Cate](https://cate.cero-ai.com/) - Open-source IDE on an infinite zoomable canvas with editor, terminal, and browser panels.
 
 ## CLIs & Terminal Tools
 
