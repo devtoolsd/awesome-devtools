@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [OpenCode ChatGPT Account Rotator](https://github.com/xnnnc/opencode-chatgpt-account-rotator) - Local CLI and GUI for rotating saved OpenCode ChatGPT auth entries on one trusted machine.
 
 ## DevOps & Infrastructure
 
