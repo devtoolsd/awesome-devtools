@@ -126,6 +126,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
 * [xyd](https://xyd.dev/) - A new scalable Open Source Docs Framework for future dev powered by LiveSession.
+* [Remio](https://remio.ai/) - Local-first AI memory and knowledge base for files, webpages, recordings, emails, messages, images, and notes, using local indexes and vectors to reduce repeated file scanning and token-heavy context loading.
 
 ## Browser Extensions
 
