@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+- [supercli](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. One pattern for every tool, JSON-by-default output, agent-native discovery.
 
 ## DevOps & Infrastructure
 
