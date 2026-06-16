@@ -135,6 +135,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [Mini Tools JSON Formatter](https://mini-tools.uk/json) - Format, validate, minify and inspect JSON in a browser.
 
 ## Productivity & Misc
 
@@ -147,6 +148,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Mini Tools Free Image Hosting](https://mini-tools.uk/upload) - Free image hosting for GitHub README, Markdown and HTML outputs.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
