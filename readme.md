@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [Xcode Build Console](https://jamiejhouston-commits.github.io/xcode-build-console-landing/) - iPhone command console for triggering and monitoring remote Mac/Xcode builds.
 
 ## APIs & Backends
 
