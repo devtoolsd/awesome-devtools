@@ -70,6 +70,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
+* [dotdog](https://github.com/specdog/dotdog) - CLI for structured software specs. Write .dog files, compile .dag graphs, query via MCP.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ## DevOps & Infrastructure
