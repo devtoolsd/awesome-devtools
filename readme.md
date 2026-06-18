@@ -47,6 +47,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
+* [harmony-next.skills](https://github.com/linhay/harmony-next.skills) - HarmonyOS NEXT skill and workflow toolkit for AI coding agents, with local ArkTS/ArkUI references plus DevEco, Emulator, HDC, UI/UX audit, and trace-audit automation.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
