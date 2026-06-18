@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [Mini-Tools.uk JSON Formatter](https://mini-tools.uk/promo-json.html) - Free browser JSON formatter for API responses, webhook payloads, GitHub issues, and AI-generated JSON cleanup.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
