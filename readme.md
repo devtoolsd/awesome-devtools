@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for long-running, high-correctness AI software delivery. LLM councils plan it, Ralph loops perfect it, OpenCode worktrees ship it.
 
 ## IDEs & Code Editors
 
