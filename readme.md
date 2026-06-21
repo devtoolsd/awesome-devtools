@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Parlel](https://github.com/dksingh1997/parlel) - 250+ local service emulators (Stripe, Postgres, Slack, S3, Kafka and more) on Docker, speaking real wire protocols for integration tests and CI without hitting real services.
 
 ## Docs & Knowledge
 
