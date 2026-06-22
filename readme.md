@@ -94,6 +94,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Appwrite](https://appwrite.io/) - Secure backend server for web and mobile apps.
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
+* [UnfoldCMS](https://unfoldcms.com/) - Self-hosted CMS built on Laravel 12, React 19, shadcn/ui and Tailwind v4, with a REST API (42 endpoints), HMAC-signed webhooks and headless mode.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
 
