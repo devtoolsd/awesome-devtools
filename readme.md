@@ -163,3 +163,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 PRs welcome!
 
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of free online tools, software, and digital resources.
