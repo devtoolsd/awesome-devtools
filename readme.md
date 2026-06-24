@@ -69,6 +69,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
+* [Payload Components](https://www.payload-components.xyz/) - CLI and registry for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
