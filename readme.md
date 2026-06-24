@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Prism API](https://github.com/go165/prism-api-promo) - OpenAI-compatible AI API gateway for overseas developers, with GPT-5.5 access, usage billing, quota controls, and crypto-friendly recharge options.
 
 ## Design & UI Tools
 
