@@ -146,7 +146,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
-* [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline.
+* [ToolBox Pro](https://dingpeng29.github.io/) - Free online developer toolbox with 25+ tools: PDF toolkit, image compressor, resume builder, JSON formatter, QR decoder, text toolkit, password/UUID generators. All tools run locally in the browser. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
