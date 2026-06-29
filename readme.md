@@ -156,6 +156,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
 
 ### Related Lists
+- [Skill Hub](https://github.com/rdone4425/skill) — AI Agent Skills navigator: 2595+ skills from 24 sources (Codex, Claude Code, Hermes, OpenCode, OpenClaw, Cursor). [Web](https://skill.442595.xyz/)
 
 - [Awesome AI Coding Tools  ](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 
