@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [UACOS](https://github.com/caotiensinh/uacos) - Local-first safety and context layer that any coding agent (Aider, Cline, Claude Code, etc.) can run underneath: context compression, patch-scope safety gates, transaction rollback, and a local MCP server.
 
 ## IDEs & Code Editors
 
