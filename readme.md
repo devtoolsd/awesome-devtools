@@ -154,6 +154,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
 * [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
+* [Actual Schema Gradle Plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin for generating PostgreSQL schema.sql snapshots from Liquibase migrations.
 
 ### Related Lists
 
