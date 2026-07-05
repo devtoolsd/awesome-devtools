@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [DevBox Tools](https://devbox.tools/) - Browser-based developer toolbox with utilities for JSON, Base64, UUID, hashing, regex, encoding, timestamps, URLs, HTML, CSS, and more.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
