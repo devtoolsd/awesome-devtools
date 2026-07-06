@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [rtblint](https://github.com/aleksUIX/rtblint) - Rust CLI that validates OpenRTB bid requests against the IAB Tech Lab spec, with `--format json` for CI.
 
 ## DevOps & Infrastructure
 
