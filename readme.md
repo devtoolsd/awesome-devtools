@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [UniversalTools](https://universaltools.org/en) - 60+ free browser-based developer tools (JSON, regex, JWT, hash, CSV, cron) in 7 languages, no signup, 100% client-side.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
