@@ -49,6 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
+* [AgentBox](https://github.com/madarco/agentbox) - Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM (local Docker, self-hosted, or cloud).
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
 ## IDEs & Code Editors
