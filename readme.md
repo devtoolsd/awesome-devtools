@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Busleyden Guard](https://www.busleyden.com/) - GitHub checks and an install-free public PR preview that surface affected tests, owners, security evidence, and unresolved merge obligations.
 
 ## Docs & Knowledge
 
