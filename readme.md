@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Vibes DIY](https://vibes.diy/) - [Open-source](https://github.com/VibesDIY/vibes.diy) AI app builder that turns a plain-English description into a real, live, shareable web app.
 
 ## IDEs & Code Editors
 
