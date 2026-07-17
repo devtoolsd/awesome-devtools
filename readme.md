@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Dev Launch Pack](https://github.com/aicompanyendlessinnovations/dev-launch-pack) - Free, MIT-licensed collection of browser-based generators that draft developer communications — launch tweets, Show HN posts, commit messages, PR descriptions, changelogs, release notes, and bug reports. No signup, client-side only.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
