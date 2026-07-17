@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [DocFlow](https://aicodedocumentationgenerator.com) - GitHub App that auto-generates README, CHANGELOG, and API docs on every merged PR.
 
 ## IDEs & Code Editors
 
