@@ -120,6 +120,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Docs & Knowledge
 
 * [Docusaurus](https://docusaurus.io/) - Easy-to-maintain open-source documentation site generator.
+* [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local spreadsheet-to-Markdown converter for preparing tables for READMEs and technical documentation.
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes and collaboration.
 * [GitBook](https://www.gitbook.com/) - Knowledge management and docs platform.
 * [ReadMe](https://readme.com/) - Interactive API documentation builder.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
