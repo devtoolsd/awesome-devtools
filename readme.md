@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [squirrelscan](https://squirrelscan.com/) - Website QA tool that audits SEO, performance, security, and accessibility (260+ rules) and gives your coding agent exact fixes. Runs from the CLI, in the cloud, or over MCP.
 
 ## Docs & Knowledge
 
