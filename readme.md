@@ -1,6 +1,6 @@
 # Awesome DevTools
 
-> A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
+> A curated list of awesome developer tools and services - from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
@@ -45,7 +45,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
 * [Tabnine](https://www.tabnine.com/) - AI code completions trained on open-source code.
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
-* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
+* [Amazon Q Developer](https://aws.amazon.com/q/developer/) - Generative AI assistant for software development and AWS operations.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
@@ -66,7 +66,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
-* [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
+* [eza](https://github.com/eza-community/eza) - Maintained modern replacement for `ls` with colors and Git integration.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X data API and MCP server for search, account lookups, exports, webhooks, and confirmation-gated actions. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## Design & UI Tools
 
