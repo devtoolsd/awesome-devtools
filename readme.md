@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Aura](https://github.com/Naridon-Inc/aura) - Open-source semantic layer on top of Git for reviewing AI-generated code, intent, provenance, and change risk.
 
 ## IDEs & Code Editors
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
