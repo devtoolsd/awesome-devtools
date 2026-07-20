@@ -62,6 +62,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## CLIs & Terminal Tools
 
+- [gsc-indexer](https://github.com/toolsura/gsc-indexer) - Submit and re-index URLs to Google Search Console's URL Inspection API from CI.
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
