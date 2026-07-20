@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [Markstream Vue](https://markstream-vue.simonhe.me/) - MIT-licensed streaming Markdown renderer for AI chat UIs, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
 
 ## Testing & Quality
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
