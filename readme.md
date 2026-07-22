@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [Heartbeat Monitor](https://khangyen.github.io/subtitle-toolbox/shop.html#heartbeat-monitor) - Self-hosted dead-man's-switch for cron jobs/scheduled tasks — one email when a job goes silent, one more when it recovers, runs in your own Google account.
 
 ## APIs & Backends
 
@@ -147,6 +148,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [RepoRadar](https://khangyen.github.io/repo-radar/) - Daily-updated trending GitHub repos ranked by real star momentum (own snapshots, not scraped), with Hacker News buzz. Free, no signup.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
