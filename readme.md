@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [Heartbeat Monitor](https://khangyen.github.io/subtitle-toolbox/shop.html#heartbeat-monitor) - Self-hosted dead-man's-switch for cron jobs/scheduled tasks — one email when a job goes silent, one more when it recovers, runs in your own Google account.
 
 ## APIs & Backends
 
