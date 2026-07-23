@@ -24,6 +24,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Analytics Tools
 
+- [Formo](https://formo.so/) - Product and onchain analytics for Web3 applications with SDK, API, CLI, and MCP access.
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
