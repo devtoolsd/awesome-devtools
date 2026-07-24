@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [llm-tokencheck](https://github.com/ilan-lachkar/llm-tokencheck) - CLI to count tokens and estimate API cost across OpenAI, Anthropic, and Google models before you make the call.
 
 ## DevOps & Infrastructure
 
