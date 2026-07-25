@@ -66,6 +66,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
+* [prerenderbuddy-cli](https://github.com/kopachlager/prerenderbuddy-cli) - CLI for comparing raw and rendered page output for crawler visibility checks.
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
