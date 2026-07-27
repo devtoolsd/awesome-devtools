@@ -64,6 +64,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
+* [Nether](https://github.com/barryspacezero/nether-dev) - Zero-config dev proxy that lets your full-stack localhost app run on any device (phone, tablet) via runtime URL rewriting — no .env changes, no CORS setup.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
