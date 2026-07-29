@@ -74,6 +74,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## DevOps & Infrastructure
 
+* [DevOpsForge](https://devops-config-generator.vercel.app/) - Interactive visual Docker Compose, Dockerfile, and reverse proxy configuration builder.
 * [Docker](https://www.docker.com/) - Container platform for building and running apps.
 * [Kubernetes](https://kubernetes.io/) - Container orchestration system.
 * [Terraform](https://www.terraform.io/) - Infrastructure as code tool by HashiCorp.
