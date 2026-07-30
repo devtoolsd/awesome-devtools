@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [TrenTyx](https://trentyx.com/) - Suite of 15+ free dev tools (JSON/CSV/YAML/XML converters, Base64, UUID, cron parser, JWT decoder) that run 100% client-side. No signup, no data leaves your browser.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
