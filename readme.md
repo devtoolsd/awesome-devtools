@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [sms-florin](https://flo-voice1.com/) - Rent real phone numbers to receive SMS/OTP codes for testing verification flows; ships with a JS/TS SDK ([npm](https://www.npmjs.com/package/sms-florin)) for CI/QA automation.
 
 ## Design & UI Tools
 
