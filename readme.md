@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [PageSpeed.ONE](https://pagespeed.one/en) - Page speed monitoring with daily synthetic tests and current and historical CrUX field data for Core Web Vitals.
 
 ## Docs & Knowledge
 
