@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [MCP Config Doctor](https://mcpconfigdoctor.online/) - Browser-local static checks for supported Codex, Gemini CLI, and VS Code MCP client configuration formats, including configuration-shape and secret/env-risk checks without runtime-health claims.
 
 ## IDEs & Code Editors
 
