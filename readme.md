@@ -50,7 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
-* [usage](https://github.com/aqua5230/usage) - macOS menu bar monitor for Claude Code and Codex quota, with burn-rate predictions and offline HTML reports.
+* [usage](https://github.com/aqua5230/usage) - macOS menu bar and Windows tray monitor for Claude Code, Codex, and Antigravity quota, with burn-rate predictions and offline HTML reports.
 
 ## IDEs & Code Editors
 
