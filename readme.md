@@ -35,6 +35,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [AWS](https://aws.amazon.com/) - Comprehensive cloud computing services platform.
 * [Google Cloud Platform](https://cloud.google.com/) - Scalable and secure cloud infrastructure.
 * [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
+* [Cactal](https://cactal.ai) - The website platform for AI agents.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
