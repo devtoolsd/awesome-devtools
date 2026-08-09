@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Boost](https://boost.jfrog.com/) - Free CLI that filters terminal and CI output before it reaches Cursor, Claude Code, and Codex, typically reducing log tokens by 60–90%, with reversible retrieval and local performance reports.
 
 ## IDEs & Code Editors
 
