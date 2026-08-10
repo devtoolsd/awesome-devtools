@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [MergeFix](https://mergefix.com) - Audits a site for SEO, performance, accessibility, and security issues and opens a real GitHub pull request with the fixes.
 
 ## IDEs & Code Editors
 
