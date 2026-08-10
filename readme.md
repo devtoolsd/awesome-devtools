@@ -40,7 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
-* [Agent Island](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex with live session state, your-turn alerts, and local monitoring.
+* [Agent Island](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code, Codex, Antigravity, Grok, and Cursor with live session state, your-turn alerts, and local monitoring.
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
