@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [ReproProof](https://github.com/shleder/reproproof) - Redacted, verifiable reproducibility receipts for Node.js and Python bug reports.
 
 ## Docs & Knowledge
 
