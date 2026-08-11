@@ -37,6 +37,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
+* [Adios](https://www.adios.dev/) - Cloud platform for building, previewing, and deploying full-stack applications.
 
 ## AI Coding Tools
 
