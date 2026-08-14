@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Browser and CLI checker for robots.txt, crawler access rules, page directives, response headers, and observed AI-crawler access.
 
 ## Docs & Knowledge
 
