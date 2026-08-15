@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source CLI that connects AI coding agents to 2,000+ tools and 200+ models through MCP with one API key.
 
 ## DevOps & Infrastructure
 
