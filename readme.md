@@ -49,6 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
+* [UIZZE](https://github.com/uizze/uizze) - UI quality gate for coding agents, with anti-UI-slop skills, a free MCP preview, and a GitHub Action grounded in 800,000+ real web and iOS screens.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
 ## IDEs & Code Editors
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
