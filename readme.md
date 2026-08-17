@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [CADGuide.tools](https://cadguide.tools/) - Interactive comparison directory and engineering calculation tools for CAD/BIM designers.
 
 ## Testing & Quality
 
