@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [A11yKit](https://a11ykit.site) - 15 free, 100% client-side web accessibility and WCAG 2.2 audit tools with zero data uploads.
 
 ## Docs & Knowledge
 
