@@ -1,5 +1,6 @@
 # Awesome DevTools
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat in plain Markdown.
 > A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
