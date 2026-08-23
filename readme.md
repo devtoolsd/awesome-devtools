@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [UI Verify](https://uiverify.ai) - AI-native visual testing that screenshots your Storybook, Playwright, or Vitest tests and triages each PR as change, regression, or flake, so the coding agent that wrote the UI sees what it broke. Runs in CI as a CLI and GitHub Action.
 
 ## Docs & Knowledge
 
