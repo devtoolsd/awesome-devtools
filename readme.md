@@ -116,7 +116,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
-
+* [MaruCheck](https://marucheck.dev/) - Open-source independent QA and verification for AI-generated software with Quality Contracts, risk-based verification, QA memory, semantic drift protection, MCP integration, and CI release checks.
+  
 ## Docs & Knowledge
 
 * [Docusaurus](https://docusaurus.io/) - Easy-to-maintain open-source documentation site generator.
