@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Wagglet](https://wagglet.com/) - Hand off scoped AI coding tasks to human or AI teammates with model and skill routing, review, and verified delivery.
 
 ## IDEs & Code Editors
 
