@@ -139,6 +139,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Productivity & Misc
 
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
+* [DevScratchpad](https://tools.saadengineer.works) - An open-source, privacy-first developer scratchpad suite featuring 19+ utilities (JSON, JWT, cURL, SQL, Diff, Cron, Regex) with zero server transmission.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
 * [Alfred](https://www.alfredapp.com/) - Mac productivity app for quick actions.
