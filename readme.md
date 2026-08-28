@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source CLI and local MCP bridge for developer workflows across 2,000+ AI models and APIs.
 
 ## IDEs & Code Editors
 
@@ -162,4 +163,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ---
 
 PRs welcome!
-
