@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Extenshi MCP](https://catalog.extenshi.io/mcp) - MCP server exposing browser-extension catalog search, security analysis, and pre-publish scanning to AI clients.
 
 ## Design & UI Tools
 
@@ -116,6 +117,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Extenshi CLI](https://docs.extenshi.io/developers/cli) - Pre-publish security scanner for browser extensions that also flags Chrome Web Store review risks.
 
 ## Docs & Knowledge
 
@@ -135,6 +137,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Octotree](https://www.octotree.io/) - GitHub code tree browser extension.
 * [Web Developer](https://github.com/chrispederick/web-developer) - Adds developer tools to your browser.
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
+* [Extenshi Catalog](https://catalog.extenshi.io) - Cross-store catalog of Chrome, Firefox, and Edge extensions with automated security scans and permission analysis.
 
 ## Productivity & Misc
 
