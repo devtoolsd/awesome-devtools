@@ -147,6 +147,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Pantechnicon URL Encoder](https://pantechnicon.dev/url-encode-decode) - Percent-encode or decode a full URL, a URL component, or a form field, with a per-character reference.
+* [Pantechnicon JWT Decoder](https://pantechnicon.dev/jwt-decoder) - Decode and verify JSON Web Tokens in the browser. No token or key ever leaves the page.
+* [Pantechnicon Secret Redactor](https://pantechnicon.dev/secret-redactor) - Blank out AWS keys, GitHub tokens and 12 other secret shapes in a log before sharing it.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
