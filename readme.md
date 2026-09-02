@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [QuickDevBox](https://quickdevbox.com) - 100% client-side, privacy-first developer toolbox with 116+ online tools for encoding, cryptography, CSS generators, DevOps, and formatters. No registration, runs in-memory.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
