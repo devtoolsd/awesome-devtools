@@ -27,6 +27,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
+- [GEOKit](https://geokit.site) - Privacy-first Generative Engine Optimization (GEO) analytics and AI search readiness toolkit.
 
 ## Cloud Platforms
 
@@ -70,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [bat](https://github.com/sharkdp/bat) - Cat clone with syntax highlighting.
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
+* [geokit-cli](https://github.com/gstar-byte/geokit-cli) - CLI for Generative Engine Optimization (GEO) audits, `/llms.txt` validation, and AI search visibility.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ## DevOps & Infrastructure
