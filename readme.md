@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [APIzone](https://apizone.io) - Independent uptime monitoring for 294 popular APIs (Stripe, OpenAI, AWS, GitHub, etc.) via its own probes, not vendor status pages — free JSON API, embeddable badges, and an MCP server for AI agents.
 
 ## APIs & Backends
 
