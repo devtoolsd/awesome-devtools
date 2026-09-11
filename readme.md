@@ -72,6 +72,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
+* [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that generates GitHub release notes from Conventional Commits (no API, no config).
+
 ## DevOps & Infrastructure
 
 * [Docker](https://www.docker.com/) - Container platform for building and running apps.
