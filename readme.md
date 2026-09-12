@@ -42,6 +42,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
 * [Tabnine](https://www.tabnine.com/) - AI code completions trained on open-source code.
 * [Cody (Sourcegraph)](https://sourcegraph.com/cody) - AI coding assistant with codebase context.
