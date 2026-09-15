@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [geolint](https://github.com/iliasabk/geolint) - ESLint-style linter for AI-search readiness: robots.txt across 51 AI crawler tokens, llms.txt, structured data, citability. CLI, GitHub Action, MCP server.
 
 ## Docs & Knowledge
 
