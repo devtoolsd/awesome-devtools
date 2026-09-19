@@ -48,6 +48,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code suggestions from AWS.
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
+* [AgentSentry](https://github.com/TheMerchCog/agentsentry) - Zero-dependency local proxy & circuit breaker protecting Claude Code and Cursor agents from runaway tool loops and token spend spikes.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
