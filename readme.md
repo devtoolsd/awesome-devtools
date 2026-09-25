@@ -92,6 +92,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Hasura](https://hasura.io/) - Instant GraphQL APIs on your data.
 * [PocketBase](https://pocketbase.io/) - Lightweight local backend with realtime and auth.
 * [Appwrite](https://appwrite.io/) - Secure backend server for web and mobile apps.
+* [Concile](https://github.com/concile-dev/concile) - Self-hosted realtime backend where every query stays live.
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
