@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [SVRF](https://github.com/nybarius/SVRF) - Open-source merge train that batches, gates, and lands pull requests faster than one-by-one CI.
 
 ## APIs & Backends
 
