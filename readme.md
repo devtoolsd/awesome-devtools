@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
