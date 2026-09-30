@@ -126,6 +126,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
 * [xyd](https://xyd.dev/) - A new scalable Open Source Docs Framework for future dev powered by LiveSession.
+* [Brink](https://brinknotch.site) - Free, open-source macOS notch for your Notion pages and tasks: peek, tick, capture and edit without opening Notion.
 
 ## Browser Extensions
 
