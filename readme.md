@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Manifest API Bot](https://manifest.build/api-bot/) - GitHub App that watches the third-party APIs your code calls and opens a pull request with the fix when one of them changes.
 
 ## Design & UI Tools
 
