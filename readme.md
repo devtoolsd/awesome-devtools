@@ -137,6 +137,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
 ## Productivity & Misc
+* [Formaty](https://formaty.dev) - Browser-based developer data workspace to format, convert, compare, and query JSON, XML, YAML, TOML, and CSV, with SQL and type/schema generation. 100% local - no cloud, no sign-up.
 
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
