@@ -72,6 +72,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
+* [EdgeSSH](https://github.com/aozorae/EdgeSSH) - Self-hosted browser SSH workspace on Cloudflare Workers, with SFTP file management, process monitoring, and encrypted command snippets.
+
 ## DevOps & Infrastructure
 
 * [Docker](https://www.docker.com/) - Container platform for building and running apps.
