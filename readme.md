@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [assay](https://github.com/awss1i/assay) - Deterministic CLI that opens a web page in Chromium through Playwright, drives every control it finds, and reports where the page contradicts itself.
 
 ## Docs & Knowledge
 
