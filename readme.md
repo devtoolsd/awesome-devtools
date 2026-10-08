@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [CodeOtter](https://codeotter.io/) - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea, with local or BYO-key models.
 
 ## IDEs & Code Editors
 
