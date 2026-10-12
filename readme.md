@@ -138,6 +138,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [Olutil Dev Tools](https://dev.olutil.com/) - Free browser-based developer utilities (JSON formatter, JWT decoder, regex, hashes, QR). Runs entirely client-side.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
