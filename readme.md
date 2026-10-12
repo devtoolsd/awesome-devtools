@@ -27,6 +27,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
+- [MiniToolDesk](https://minitooldesk.com) - 100% private, client-side developer toolbox with 30+ instant utilities and zero server tracking. ([Source Code](https://github.com/minitooldesk/minitooldesk-core))
 
 ## Cloud Platforms
 
