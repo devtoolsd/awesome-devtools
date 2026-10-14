@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
+* [Tool Kumar](https://tools.vikasmaur.com/) - Free, private browser-based JSON viewer, formatter, converter, and type generator.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
