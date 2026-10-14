@@ -148,6 +148,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Hopp](https://gethopp.app/) - Open source remote pair programming app.
 * [Digital Toolpad](https://www.DigitalToolpad.com) - Modern suite of dev tools that run 100% offline. No Cloud or Data transfer, providing pure privacy for individual or corporate use.
 
+
+* [DevTools Help](https://devtools.help/) - Free online developer toolbox: JSON/YAML formatter & validator, regex tester, hash/HMAC & JWT tools, timestamp converter, string utilities, QR generator and a Go cheatsheet. Runs in the browser, no signup required.
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
 * [Flyway](https://flywaydb.org/) - Lightweight, SQL-based database version control and migration tool.
