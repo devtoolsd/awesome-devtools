@@ -138,6 +138,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [Doc2X](https://doc2x.noedgeai.com/) - Parse PDFs and images into Word, Markdown or LaTeX with formula/table recognition; includes document translation and a developer API. Hosted service requires an account, offers limited free usage and paid upgrades; API usage is billed separately.
+
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
