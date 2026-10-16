@@ -119,6 +119,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Docs & Knowledge
 
+* [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS file viewer for Markdown documents with diagrams, JSON trees, CSV tables, PDFs, images and source code.
 * [Docusaurus](https://docusaurus.io/) - Easy-to-maintain open-source documentation site generator.
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes and collaboration.
 * [GitBook](https://www.gitbook.com/) - Knowledge management and docs platform.
