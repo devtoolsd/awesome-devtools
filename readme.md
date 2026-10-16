@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Code Buster](https://toolbunker.dev/codebuster/) - Deterministic, offline static analysis for repository structure, dependencies, dead code, duplication, complexity, security, and maintainability across 18 languages.
 
 ## Docs & Knowledge
 
