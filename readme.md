@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [Openhook](https://openhook.dev/) - Open-source webhook inbox for capturing callbacks, inspecting payloads through MCP or REST, and forwarding events to local handlers.
 
 ## Docs & Knowledge
 
