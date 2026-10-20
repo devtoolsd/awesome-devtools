@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce where Commander coordinates specialist agents for project work, including code changes and review, with supported own-provider API keys.
 
 ## IDEs & Code Editors
 
