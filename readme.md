@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [burntop](https://burntop.dev/) - Open-source FastAPI + React 19 + Postgres template for AI coding agents; mocks and untested routes fail the build.
 
 ## IDEs & Code Editors
 
