@@ -25,6 +25,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Analytics Tools
 
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
+- [PDFnoted](https://pdfnoted.com) - Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
 
