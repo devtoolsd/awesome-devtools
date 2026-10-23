@@ -62,6 +62,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## CLIs & Terminal Tools
 
+* [Flisk](https://flisk.sh) - Generate and run your whole tech stack without the setup pain.
+
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
