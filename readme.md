@@ -27,6 +27,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Cloud Platforms
 
