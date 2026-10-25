@@ -64,6 +64,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Fig](https://fig.io/) - Autocomplete and UI enhancements for your terminal.
 * [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with AI commands.
+* [TermiGram](https://termigram.com/) - SSH terminal and SFTP file manager inside Telegram for externally reachable servers (freemium).
 * [tldr](https://tldr.sh/) - Simplified man pages for command-line tools.
 * [fzf](https://github.com/junegunn/fzf) - Fuzzy finder for terminal power users.
 * [exa](https://the.exa.website/) - Modern replacement for `ls` with icons and colors.
