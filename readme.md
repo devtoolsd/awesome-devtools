@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Sahkarmi](https://sahkarmi.site/) - Open-source desktop team workspace where autonomous AI coworkers run locally on your computer with human verification checkpoints.
 
 ## IDEs & Code Editors
 
