@@ -106,6 +106,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 * [Material UI](https://mui.com/) - React UI framework with Google's Material Design.
 * [Chakra UI](https://chakra-ui.com/) - Modular, accessible component library for React.
+* [GitHubCard](https://githubcard.com/) - Visual designer for GitHub profile and repository cards; export SVG/PNG or embed live in a README.
 
 ## Testing & Quality
 
