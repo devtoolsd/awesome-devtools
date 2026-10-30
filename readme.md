@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [CurlShot](https://curlshot.com/) - Screenshot API that turns a URL, HTML or Markdown into a PNG, PDF or scrolling video with one HTTP request.
 
 ## Design & UI Tools
 
