@@ -27,6 +27,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative.
 - [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit.
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics.
+- [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - Instant zero-signup technical SEO, Core Web Vitals, and AI search crawler diagnostic engine.
+- [SEOAudit](https://seoaudit.com.ua/) - Enterprise technical SEO audit platform for website crawlability and link graph analysis.
 
 ## Cloud Platforms
 
@@ -96,6 +98,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [ListAIHub](https://listaihub.com/) - Curated registry of autonomous AI tools, developer endpoints, and OpenAPI 3.0 specifications for agent integration.
 
 ## Design & UI Tools
 
