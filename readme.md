@@ -83,6 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Jenkins](https://www.jenkins.io/) - Open-source automation server.
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
+* [Denpex](https://denpex.com/) - GPU log diagnostics for training and inference failures across CUDA, PyTorch, NCCL, and vLLM.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
 
 ## APIs & Backends
