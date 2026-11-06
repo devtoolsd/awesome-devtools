@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [Flisk](https://github.com/flisk-sh/flisk) - Run every part of your app (API, website, workers, AI agents, database) on your computer with one command, Docker optional.
 
 ## APIs & Backends
 
