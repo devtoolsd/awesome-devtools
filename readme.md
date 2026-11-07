@@ -50,6 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
+* [Code By AI](https://www.codebyai.net/) - Pay-per-token API gateway giving Claude Code, Codex CLI, Gemini CLI and other coding agents one key for Claude, GPT/Codex and Gemini models.
 
 ## IDEs & Code Editors
 
