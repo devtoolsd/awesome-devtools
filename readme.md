@@ -40,6 +40,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI Coding Tools
 
+* [CodeI Lab](https://www.codeilab.com/) - GPT API gateway for coding agents with OpenAI-compatible and Anthropic Messages endpoints (Claude Code, Codex CLI, OpenCode, Cursor).
 * [Cursor](https://www.cursor.so/) - AI-powered code editor with native GPT integration.
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI.
 * [Windsurf](https://windsurf.com/) - Free AI-powered code autocomplete.
