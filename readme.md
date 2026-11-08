@@ -116,6 +116,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [AccessGuard CI Action](https://github.com/ronanchnlps-bit/accessguard-ci-action) - GitHub Action and CLI gate for WCAG 2.2 AA accessibility, security headers, `/llms.txt`, and SARIF v2.1.0 code scanning.
 
 ## Docs & Knowledge
 
@@ -154,6 +155,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
 * [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
+* [Supabase & Postgres RLS Auditor CLI](https://github.com/LBCron/supabase-postgres-rls-compliance-auditor-cli) - Static SQL migration auditor and auto-patch generator for PostgreSQL Row-Level Security (RLS) policies.
 
 ### Related Lists
 
