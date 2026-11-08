@@ -49,6 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
+* [Exody](https://www.exody.ai/) - Local-first macOS autonomous AI coding agent, Design Studio, and multi-model BYOK Smart Router.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
 
 ## IDEs & Code Editors
