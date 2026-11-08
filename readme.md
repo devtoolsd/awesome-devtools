@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [speedrunner](https://github.com/anthonyGosme/speedrunner) - Keeps Python, Ruby, PHP and Node CLIs loaded in a daemon and forks them per call, skipping start-up.
 
 ## DevOps & Infrastructure
 
