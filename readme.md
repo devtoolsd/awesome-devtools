@@ -163,3 +163,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 PRs welcome!
 
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS Now Playing utility beside the Dock.
