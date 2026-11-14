@@ -142,6 +142,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
 * [Alfred](https://www.alfredapp.com/) - Mac productivity app for quick actions.
+* [Atlyxen Tools](https://tools.atlyxenstudios.com/) - In-browser developer and 3D workstation featuring client-side PDF editing, CAD DWG inspection, file conversions, and formatting with zero cloud tracking.
+
 * [Notion](https://www.notion.so/) - Workspace for notes, docs, and tasks.
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
