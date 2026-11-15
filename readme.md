@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public remote MCP server and API for searching 1,700+ independent live-music venues, booking contacts, and touring routes across all 50 US states, DC, and BC.
 
 ## Design & UI Tools
 
