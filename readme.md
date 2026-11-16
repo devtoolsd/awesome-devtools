@@ -138,6 +138,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [HumanPen](https://humanpen.net/) - Document-level AI editing & API: Humanize (DOCX/PPTX/TXT), Condense (DOCX word-budget), Citation Format Correction (DOCX, 12 styles), and Translate (12 languages). 100 signup credits; commercial credit-based pricing.
+
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
