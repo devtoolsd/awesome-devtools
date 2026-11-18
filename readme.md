@@ -123,6 +123,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes and collaboration.
 * [GitBook](https://www.gitbook.com/) - Knowledge management and docs platform.
 * [ReadMe](https://readme.com/) - Interactive API documentation builder.
+* [ReadmeCraft](https://readme.bharatdn.com) - Intelligent dual-mode README studio with 41 native SVG badges and 63 themes.
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
 * [xyd](https://xyd.dev/) - A new scalable Open Source Docs Framework for future dev powered by LiveSession.
