@@ -71,6 +71,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [zx](https://github.com/google/zx) - Tool for writing shell scripts in JavaScript.
 * [ccr](https://github.com/NeverVane/commandchronicles) - Enhanced CLI history manager, project-aware, with sync and encryption.
 * [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+* [HubSpot Attachment Auditor](https://github.com/smartprov05/hubspot-attachment-auditor) - Open-source CLI tool to scan, audit, and extract file attachments across HubSpot CRM records.
 
 ## DevOps & Infrastructure
 
@@ -154,6 +155,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
 * [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
+* [HubSpot Property Schema Exporter](https://github.com/smartprov05/hubspot-property-schema-exporter) - CLI tool to export, compare, and manage CRM property schemas across HubSpot portals.
 
 ### Related Lists
 
