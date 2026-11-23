@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [OpsCheck](https://opscheck.dev) - 100% client-side simulators and validators for CORS policies, Nginx reverse proxies, Docker Compose healthchecks, .env files, and HMAC webhooks.
 
 ## APIs & Backends
 
