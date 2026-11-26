@@ -37,6 +37,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
+* [PreviewShip](https://previewship.com/) - Instant frontend preview hosting for HTML, Markdown, PDF, and static build output (`dist`/`build`/`out`) with fixed shareable URLs, CLI, and MCP server.
 
 ## AI Coding Tools
 
